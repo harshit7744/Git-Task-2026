@@ -1,4 +1,4 @@
-# Autonomous Ground Vehicle Research Group
+* `Kharanshu Dash [kharanshuuuu](http://github.com/kharanshuuuu# Autonomous Ground Vehicle Research Group
 ## Git/Github Tasks
 
 AGV Introductory Tasks: [ROS + Git Tasks](https://docs.google.com/document/d/1qB52Gc9wp9AnijAUdmTTTuANuoRfPfMC2oy5u0SS7iQ/edit?usp=sharing)
@@ -41,8 +41,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 ENTER NAMES HERE \
-* 'Kharanshu Dash [kharanshuuuu](https://github.com/kharanshuuuu)'.
-
+* `Kharanshu Dash [kharanshuuuu](http://github.com/kharanshuuuu)`
 
 ## Task 2
 
