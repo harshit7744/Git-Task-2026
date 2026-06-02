@@ -40,7 +40,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-ENTER NAMES HERE \
+Shaurya Gupta[Coder0407](https://github.com/Coder0407/Git-Task-2026)
 
 
 ## Task 2
