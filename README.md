@@ -1,4 +1,4 @@
-# Autonomous Ground Vehicle Research Group
+* `Kharanshu Dash [kharanshuuuu](http://github.com/kharanshuuuu# Autonomous Ground Vehicle Research Group
 ## Git/Github Tasks
 
 AGV Introductory Tasks: [ROS + Git Tasks](https://docs.google.com/document/d/1qB52Gc9wp9AnijAUdmTTTuANuoRfPfMC2oy5u0SS7iQ/edit?usp=sharing)
@@ -40,8 +40,24 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+
 ENTER NAMES HERE \
 Mukesh Nikap [mukeshnikap-dotcom](https://github.com/mukeshnikap-dotcom) .
+RupashiBansal [rupashibansal1298] (http://github.com/rupashibansal1298)
+Ayush Patnaik [patnaikayush425-cyber](http://github.com/patnaikayush425-cyber)
+Disha Bhavsar [dishabhavsar-25](http://github.com/dishabhavsar-25)
+Kharanshu Dash [kharanshuuuu](http://github.com/kharanshuuuu)
+Ahan Porwal [ahanporwal](http://github.com/ahanporwal)
+saswat saiprasad kar [saswatskar](http://github.com/saswatskar)
+Ruhi Shanbhag [ruhishan](http://github.com/ruhishan)
+Viraat Alegaonkar https://github.com/viraat240507
+Arpit Aggarwal [arpitaggarwal9584](http://github.com/arpitaggarwal0584)
+Aashi Asmita [aashiasmita1357](http://github.com/aashiasmita1357)
+Sambit Mukhopadhyay [SambitMukhopadhyay](http://github.com/SambitMukhopadhyay)
+Kashyap Tandel [kashyaptandel1](http://github.com/kashyaptandel1)
+Aashna [aashna0908](http://github.com/aashna0908)
+Rudraksh Gupta [rudraksh168](https://github.com/rudraksh168)
+
 
 ## Task 2
 
