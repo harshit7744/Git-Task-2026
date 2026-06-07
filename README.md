@@ -42,6 +42,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 ENTER NAMES HERE \
+saswat saiprasad kar [saswatskar](http://github.com/saswatskar)
 Ruhi Shanbhag [ruhishan](http://github.com/ruhishan)
 Viraat Alegaonkar https://github.com/viraat240507
 Arpit Aggarwal [arpitaggarwal9584](http://github.com/arpitaggarwal0584)
